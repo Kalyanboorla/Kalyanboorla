@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Kalyan Boorla
 
-<!--
-**Kalyanboorla/Kalyanboorla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+🚀 Founder of KollegeConnect  
+💻 Interested in Web Development & Startups  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- Node.js (Basics)
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- KollegeConnect – Student networking & learning platform
+- Blood Bank Management System (Mini Project)
+
+### 📈 What I'm Learning
+- React
+- Backend APIs
+- System Design (Basics)
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/kalyanboorla/
+- Email: kalyanboorla1@gmail.com

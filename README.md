@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Kalyan Boorla
 
 🎓 B.Tech CSE Student  
-🚀 Founder of KollegeConnect  
+🚀 Building @KollegeConnect  
 💻 Interested in Web Development & Startups  
 
 ### 🔧 Tech Stack
